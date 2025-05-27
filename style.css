@@ -1,0 +1,25 @@
+.form{
+    background-color: rgba(255,255,255,0.5);
+    font-style: italic;
+    width: 250px;
+    margin-top: 30%;
+    margin-left: 20%;
+    text-align:center ;
+    position: absolute;
+    border-collapse: collapse;
+
+}
+.form tr,td{
+    color: #000;
+}
+.form h2{
+    background:black;
+    color: aliceblue;
+}
+img {
+    position: absolute;
+    width: 95vw;
+    height: 70vh;
+    z-index: -1;
+    justify-content: center;
+}
